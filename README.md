@@ -1,3 +1,20 @@
+# Hi 👋 My name is Nasser Labibe  
+### A passionate Front-End Web developer  
+
+I'm Nasser, a Front-End web developer crafting responsive and interactive websites.  
+Always learning and improving to deliver clean, fast, and engaging user experiences.
+
+---
+
+- 🌍 I'm based in Kairouan (Tunisia)  
+- 🌐 See my portfolio at [nasserlabibe.com](https://nasserlabibe.com)  
+- 📫 You can contact me at [nasserlabibe@gmail.com](mailto:nasserlabibe@gmail.com)  
+- 🛠️ I'm currently working on [Building my personal portfolio website.](#)  
+- 📚 I'm learning Front-end frameworks like **React** and **Next.js**  
+- 🤝 I'm open to collaborating on Projects with UX/UI designers to bring designs to life.  
+
+---
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
